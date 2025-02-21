@@ -15,7 +15,14 @@
 		<pubDate>Wed, 12 Feb 2025 11:57:18 +0530</pubDate>
 		
 		<guid>http://localhost:1313/get-involved/trac/</guid>
-		<description></description>
+		<description>&lt;h3 id=&#34;key-features&#34;&gt;Key Features:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Source Code Access&lt;/strong&gt;: Download and browse the latest ZOO-Project source code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Issue Tracking&lt;/strong&gt;: View, report, and track tickets related to project development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentation &amp;amp; Support&lt;/strong&gt;: Access detailed guides and contact the community for assistance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Get involved by registering and contributing to the ZOO-Project!&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
@@ -42,7 +49,14 @@
 		<pubDate>Mon, 10 Feb 2025 12:52:43 +0530</pubDate>
 		
 		<guid>http://localhost:1313/get-involved/sponsorship/</guid>
-		<description></description>
+		<description>&lt;h3 id=&#34;sponsorship-levels&#34;&gt;Sponsorship Levels:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bronze:&lt;/strong&gt; €1000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Silver:&lt;/strong&gt; €2000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gold:&lt;/strong&gt; €4000&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platinum:&lt;/strong&gt; €8000&lt;/li&gt;
+&lt;/ul&gt;
+</description>
 	</item>
 	
 	<item>
@@ -105,7 +119,9 @@
 		<pubDate>Sun, 09 Feb 2025 12:01:40 +0530</pubDate>
 		
 		<guid>http://localhost:1313/about/event/</guid>
-		<description></description>
+		<description>&lt;h3 id=&#34;next-event&#34;&gt;Next Event&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;FOSS4G 2025&lt;/strong&gt;&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
