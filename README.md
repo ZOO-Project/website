@@ -1,7 +1,7 @@
 # ZOO-Project Website
 
 The official ZOO-Project website built with the Hugo framework.
-This repository contains the code of the Zoo-Project project website: https://zoo-project.github.io/
+This repository contains the code of the Zoo-Project project website: https://anushacs-dell.github.io/
 
 ## ZOO-Project Hugo Theme
 
