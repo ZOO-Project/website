@@ -10,15 +10,6 @@
 	
 	
 	<item>
-		<title>Services</title>
-		<link>http://localhost:1313/code/services/</link>
-		<pubDate>Mon, 24 Feb 2025 10:28:47 +0530</pubDate>
-		
-		<guid>http://localhost:1313/code/services/</guid>
-		<description></description>
-	</item>
-	
-	<item>
 		<title>Trac</title>
 		<link>http://localhost:1313/get-involved/trac/</link>
 		<pubDate>Wed, 12 Feb 2025 11:57:18 +0530</pubDate>
