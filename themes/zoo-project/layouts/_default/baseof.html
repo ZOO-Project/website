@@ -6,10 +6,11 @@
 <main>
         {{ block "main" . }}{{ end }}
 </main>
+{{ partial "footer_std.html" . }}
 {{ if eq .Params.section "special" }} 
-    {{ partial "footer_special.html" . }}
+    {{ partial "footer_js_special.html" . }}
 {{ else }}
-    {{ partial "footer_std.html" . }}
+    {{ partial "footer_js_std.html" . }}
 {{ end }}
 
 
