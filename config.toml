@@ -1,4 +1,4 @@
-baseURL = 'https://zoo-project.github.io'
+baseURL = 'https://zoo-project.github.io/website/'
 languageCode = 'en-us'
 theme = 'zoo-project'
 
