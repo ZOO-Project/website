@@ -22,7 +22,7 @@ rules:
 * Read the documentation and remove outdated parts.
 * Create release candidate as .zip and .tar.bz2  then add them on this
   `page <http://zoo-project.org/resources/download/>`_ (by editing this
-  `wiki page <http://zoo-project.org/trac/wiki/ZooWebSite/2015/Code/Download>`_)
+  `wiki page <http://zoo-project.org/trac/wiki/ZooWebSite/2015/code/download>`_)
 * Cut a release candidate once you think that everything is in
   order. Announce the release candidate for review for at least 1
   week. In this period of time, it is also appropriate for you to
@@ -104,4 +104,4 @@ Release versions lead to an update in documentation and standard tarballs. This 
     zip -r ./zoo-project-$VERSION.zip ./zoo-project-$VERSION
     scp -P 1046 ./zoo-project-$VERSION.{zip,tar.bz2} zoo-project.org:/var/www/localhost/htdocs/dl/
 
-* Update the `Downloads page <http://zoo-project.org/new/Code/Download>`_ to add the latest release (by editing `this wiki page <http://zoo-project.org/trac/wiki/ZooWebSite/2015/Code/Download>`_).
+* Update the `Downloads page <http://zoo-project.org/resources/download/>`_ to add the latest release (by editing `this wiki page <http://zoo-project.org/trac/wiki/ZooWebSite/2015/Code/Download>`_).
