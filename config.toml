@@ -126,8 +126,6 @@ description = 'The ZOO-Project is an open source processing platform, released u
 
 
 
-    
-
       [[menu.main]]
       identifier = "get-involved"
       name = "Get Involved"
@@ -135,19 +133,21 @@ description = 'The ZOO-Project is an open source processing platform, released u
       weight = 2
       hasChildren = true
 
+
+      [[menu.main]]
+      identifier = "Contributor guide"
+      name = "Contributor guide"
+      url = "https://zoo-project.github.io/docs/contribute/index.html"
+      parent = "get-involved"
+      weight = 3
+
       [[menu.main]]
       identifier = "sponsorship"
       name = "Sponsorship"
       url = "/resources/sponsorship/"
       parent = "get-involved"
-      weight = 3
-
-      [[menu.main]]
-      identifier = "trac"
-      name = "Trac/SVN"
-      url = "/resources/trac/"
-      parent = "get-involved"
       weight = 4
+
 
       [[menu.main]]
       identifier = "knowledge_partners"
