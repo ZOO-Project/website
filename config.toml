@@ -18,10 +18,10 @@ description = 'The ZOO-Project is an open source processing platform, released u
   taglist = true
   showrss = true
   
-# navigation
-  [menu]
+# navigation menu
+[menu]
      [[menu.main]]
-     identifier = "index"
+      identifier = "index"
       name = "Index"
       url = "/"
       weight = 1
@@ -37,7 +37,7 @@ description = 'The ZOO-Project is an open source processing platform, released u
       identifier = "about"
       name = "About"
       url = "#"
-      weight = 2
+      weight = 3
       hasChildren = true
 
     [[menu.main]]
@@ -45,34 +45,34 @@ description = 'The ZOO-Project is an open source processing platform, released u
       name = "Introduction"
       url = "https://zoo-project.github.io/docs/intro.html"
       parent = "about"
-      weight = 3
+      weight = 1
 
      [[menu.main]]
       identifier = "tribe"
       name = "Tribe"
       url = "/about/tribe/"
       parent = "about"
-      weight = 4
+      weight = 2
 
       [[menu.main]]
       identifier = "event"
       name = "Event"
       url = "/about/event/"
       parent = "about"
-      weight = 5
+      weight = 3
 
       [[menu.main]]
       identifier = "identity"
       name = "Identity"
       url = "/about/identity/"
       parent = "about"
-      weight = 6
+      weight = 4
 
       [[menu.main]]
       identifier = "resources"
       name = "Resources"
       url = "#"
-      weight = 2
+      weight = 4
       hasChildren = true
 
       [[menu.main]]
@@ -80,49 +80,43 @@ description = 'The ZOO-Project is an open source processing platform, released u
       name = "Download"
       url = "/resources/download/"
       parent = "resources"
-      weight = 3
+      weight = 1
 
       [[menu.main]]
       identifier = "userguide"
       name = "Userguide"
       url = "/resources/userguide/"
       parent = "resources"
-      weight = 4
+      weight = 2
 
       [[menu.main]]
       identifier = "workshops"
       name = "Workshops"
       url = "/resources/workshops/"
       parent = "resources"
-      weight = 5
+      weight = 3
 
       [[menu.main]]
       identifier = "API"
       name = "API"
       url = "https://zoo-project.github.io/docs/C_API/"
       parent = "resources"
-      weight = 6
+      weight = 4
 
       [[menu.main]]
       identifier = "examples"
       name = "Examples"
       url = "/resources/examples/"
       parent = "resources"
-      weight = 7
+      weight = 5
 
-      [[menu.main]]
-      identifier = "spatialtools"
-      name = "Spatial Tools"
-      url = "/resources/examples/spatialtools/"
-      parent = "examples"
-      weight = 8
 
       [[menu.main]]
       identifier = "presentation"
       name = "Presentation"
       url = "/resources/presentation/"
       parent = "resources"
-      weight = 9
+      weight = 6
 
 
 
@@ -130,23 +124,23 @@ description = 'The ZOO-Project is an open source processing platform, released u
       identifier = "get-involved"
       name = "Get Involved"
       url = "#"
-      weight = 2
+      weight = 5
       hasChildren = true
 
 
       [[menu.main]]
-      identifier = "Contributor guide"
+      identifier = "contributor-guide"
       name = "Contributor guide"
       url = "https://zoo-project.github.io/docs/contribute/index.html"
       parent = "get-involved"
-      weight = 3
+      weight = 1
 
       [[menu.main]]
       identifier = "sponsorship"
       name = "Sponsorship"
       url = "/resources/sponsorship/"
       parent = "get-involved"
-      weight = 4
+      weight = 2
 
 
       [[menu.main]]
@@ -154,13 +148,13 @@ description = 'The ZOO-Project is an open source processing platform, released u
       name = "knowledge Partners"
       url = "/resources/knowledge_partners/"
       parent = "get-involved"
-      weight = 5
+      weight = 3
 
       [[menu.main]]
       identifier = "feed_animals"
       name = "Feed Animals"
       url = "/resources/feed_animals/"
       parent = "get-involved"
-      weight = 6
+      weight = 4
 
 
